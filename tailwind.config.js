@@ -11,7 +11,7 @@ module.exports = {
         'custom-teal': '#008080',
       },
       fontFamily: {
-        'bigelow': ['Bigelow Rules', 'sans-serif'],
+        'bigelow': ['"Bigelow Rules"', 'serif'],
       },
     },
   },
